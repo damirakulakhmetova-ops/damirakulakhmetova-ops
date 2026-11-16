@@ -12,6 +12,7 @@ Education product and operations leader from **Almaty, Kazakhstan**. For 7+ year
 | Project | What it does | Stack |
 |---|---|---|
 | [**Almaty Schools**](https://github.com/damirakulakhmetova-ops/almatyschool) · [live](https://almaty-schools.kulakhmetova.workers.dev) | Catalogue of 343 schools, gymnasiums and lyceums in Almaty, merged from open data sources and mapped to city districts | React, TypeScript, Cloudflare Workers, D1 |
+| [**RoleSpeak**](https://github.com/damirakulakhmetova-ops/rolespeak) · [live demo](https://rolespeak.vercel.app/practice?demo=1) | AI patient for rehearsing the OET Speaking roleplay by voice: predicted score, feedback on 9 criteria, 3 fixes for the next attempt | Next.js, TypeScript, Gemini API, Vercel |
 
 ### Background
 
